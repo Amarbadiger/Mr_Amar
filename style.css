@@ -103,12 +103,6 @@ img {
     color: #29d882;
 }
 
-footer p {
-    font-weight: bold;
-    box-shadow: 1px -1px 1px rgb(244, 243, 243);
-    text-align: center;
-    color: #29d882;
-}
 
 @media (max-width: 600px) {
     nav {
@@ -154,14 +148,5 @@ footer p {
     .picture {
         margin-left: 0px;
     }
-    footer{
-        height: 1vh;
-    }
-    footer p{
-        margin: 20px;
-        font-weight: bold;
-        box-shadow: 1px -1px 1px rgb(244, 243, 243);
-        text-align: center;
-        color: #29d882;
-    }
+
 }
